@@ -1,3 +1,8 @@
 git init=> for initializing the git repository in the pwd
 
 git status => for listing all untracked files
+
+git add -m => for adding the untraked files to the staging area
+
+git commit -m"message" => change the files form SA=>LR
+
