@@ -1,0 +1,3 @@
+git init=> for initializing the git repository in the pwd
+
+git status => for listing all untracked files
